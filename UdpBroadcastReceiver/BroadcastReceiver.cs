@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace UdpBroadcastReceiver
 {
-    class Program
+    class BroadcastReceiver
     {
         static void Main(string[] args)
         {
